@@ -14,4 +14,8 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 - Deverá inserir uma tabela comparativa, exemplicando o use case
 - Deverá inserir links para acessar sites de conteúdo sobre o assunto.
 
-## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+## Vamos lá! Começe a atividade logo abaixo 👇👇
+
+
+# Conceito Geral
+A engenharia de requisitos oferece controles e padrões para que as exigências do projeto sejam claras, correspondam às suas finalidades e possam ser compreendidas por todos os responsáveis. Isso garante a qualidade do software, além de mais produtividade em suas etapas de desenvolvimento, operação e manutenção.
