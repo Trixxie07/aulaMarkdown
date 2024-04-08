@@ -19,3 +19,12 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 # Conceito Geral
 A engenharia de requisitos oferece controles e padrões para que as exigências do projeto sejam claras, correspondam às suas finalidades e possam ser compreendidas por todos os responsáveis. Isso garante a qualidade do software, além de mais produtividade em suas etapas de desenvolvimento, operação e manutenção.
+
+# Requisitos
+* estudo de viabilidade
+* levantamento e análise de requisitos
+* documentação dos requisitos
+* validação dos requisitos
+
+# Exemplos
+inserir dados em um formulário,buscar pratos específicos em um cardápio,consultar o status de um pedido.
