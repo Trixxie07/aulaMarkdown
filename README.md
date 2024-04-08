@@ -28,3 +28,14 @@ A engenharia de requisitos oferece controles e padrões para que as exigências 
 
 # Exemplos
 inserir dados em um formulário,buscar pratos específicos em um cardápio,consultar o status de um pedido.
+
+# Use case
+A finalidade principal dos casos de uso é capturar o comportamento de um sistema sob o ponto de vista do usuário final, para que ele/a faça o que precisa fazer. São muito úteis em projetos de ferramentas novas ou de sistemas cujo modo de funcionamento não seja bem conhecido pela equipe.
+
+
+UC           | Nome da UC
+---------    | ------
+Pão          | Pegar 1 ou 2 pães
+Engredientes | Colocar manteiga nos pães
+Torradeira   | Pegar o pão e colocar na torradeira e esperar assar para comer.
+
